@@ -79,7 +79,7 @@ src/
 ### 雲端部署 (Vercel)
 1. 將代碼推送到 GitHub
 2. 在 Vercel 中導入 GitHub 倉庫
-3. 自動部署完成
+3. 自動部署完成: https://adbert-frontend-engineer.vercel.app/
 
 ## 🔧 自定義配置
 
